@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|solutionrelative:ifesfood\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood\\admin\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|solutionrelative:ifesfood\\admin\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|solutionrelative:ifesfood\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|solutionrelative:ifesfood\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesfood\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED8EE653-19AE-4392-9C79-B4FEEBDF39B5}|ifesFood\\ifesFood.csproj|solutionrelative:ifesfood\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmcardapio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmcardapio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmcontato.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmcontato.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmequipe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmequipe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmparcerias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmparcerias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmprodutos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmprodutos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmsobre.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmsobre.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|c:\\users\\1050440\\source\\repos\\ifesfood-solution\\ifesfood-masterpage\\frmplanos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8735F22F-3496-4B88-BA75-72A6AF2766DC}|IfesFood-MasterPage\\IfesFood-MasterPage.csproj|solutionrelative:ifesfood-masterpage\\frmplanos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\FrmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "ifesFood\\FrmLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\FrmLogin.aspx.cs",
+              "RelativeToolTip": "ifesFood\\FrmLogin.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:19:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmLogin.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmLogin.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmLogin.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T17:16:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Index.aspx.cs",
+              "RelativeToolTip": "IfesFood-MasterPage\\Index.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:14:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ifesFood\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Default.aspx.cs",
+              "RelativeToolTip": "ifesFood\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:14:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmParcerias.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmParcerias.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmParcerias.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmParcerias.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmParcerias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:57:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCardapio.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmCardapio.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmCardapio.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmCardapio.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmCardapio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:57:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmEquipe.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmEquipe.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmEquipe.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmEquipe.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmEquipe.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:57:10.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmContato.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmContato.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmContato.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmContato.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmContato.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:48:21.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmSobre.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmSobre.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmSobre.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmSobre.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmSobre.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:47:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmProdutos.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmProdutos.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmProdutos.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmProdutos.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmProdutos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:47:19.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Web.config",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\Web.config",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Web.config",
+              "RelativeToolTip": "IfesFood-MasterPage\\Web.config",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-05T16:35:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\admin\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "ifesFood\\admin\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\admin\\UsuarioDAO.cs",
+              "RelativeToolTip": "ifesFood\\admin\\UsuarioDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:26:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Web.config",
+              "RelativeDocumentMoniker": "ifesFood\\Web.config",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Web.config",
+              "RelativeToolTip": "ifesFood\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-05T17:36:37.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmLogin.aspx.cs",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmLogin.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:20:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Site.Master",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\Site.Master",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Site.Master",
+              "RelativeToolTip": "IfesFood-MasterPage\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:18:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPlanos.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmPlanos.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\FrmPlanos.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\FrmPlanos.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\FrmPlanos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:47:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Index.aspx",
+              "RelativeDocumentMoniker": "IfesFood-MasterPage\\Index.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\IfesFood-MasterPage\\Index.aspx",
+              "RelativeToolTip": "IfesFood-MasterPage\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T16:33:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Default.aspx",
+              "RelativeDocumentMoniker": "ifesFood\\Default.aspx",
+              "ToolTip": "C:\\Users\\1050440\\source\\repos\\ifesFood-Solution\\ifesFood\\Default.aspx",
+              "RelativeToolTip": "ifesFood\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-07T19:35:55.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

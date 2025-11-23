@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="IfesFood_MasterPage.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetFood - Comidas e Pratos para Cachorro</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <header class="bg-body-tertiary menu-principal">
+        <nav class="navbar navbar-expand-lg container">
+            <a class="navbar-brand" href="/">PetFood</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/produtos">Produtos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/planos">Planos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/sobre">Sobre</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/contato">Contato</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <%--<a href="~/login" class="btn-info" runat="server">Entrar</a>--%>
+
+        <%--<form runat="server">
+            <asp:LoginStatus ID="LoginStatus1" runat="server" />
+        </form>--%>
+
+    </header>
+
+
+    <main>
+        <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+    </main>
+
+
+    <footer class="bg-light text-muted py-5 mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h5>PetFood</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/sobre" class="text-muted">Sobre</a></li>
+                        <li><a href="/contato" class="text-muted">Contato</a></li>
+                        <li><a href="/equipe" class="text-muted">Equipe</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>Produtos</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/cardapio" class="text-muted">Cardápio</a></li>
+                        <li><a href="/planos" class="text-muted">Planos</a></li>
+                        <li><a href="/parcerias" class="text-muted">Parcerias</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <form>
+                        <h5>Receba novidades</h5>
+                        <p>Cadastre seu e-mail para receber atualizações e promoções.</p>
+                        <div class="input-group">
+                            <input type="email" class="form-control" placeholder="Seu e-mail">
+                            <button class="btn btn-primary" type="submit">Cadastrar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="d-flex justify-content-between pt-4 border-top mt-4">
+                <p>&copy; 2025 PetFood. Todos os direitos reservados.</p>
+                <div>
+                    <a href="#" class="text-muted me-3">Instagram</a>
+                    <a href="#" class="text-muted">Facebook</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/bootstrap.bundle.js"></script>
+    <asp:ContentPlaceHolder ID="cphScripts" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>
